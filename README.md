@@ -5,12 +5,12 @@
   <br />
 
   <p>
-    <img src="./aws-logo.png" height="20" style="vertical-align: middle;" alt="AWS Builder" />
+    <img src="./assets/AWS-CBs.png" height="20" style="vertical-align: middle;" alt="AWS Builder" />
     Challenger — <strong>AWS Student Builder Group</strong>
   </p>
 
   <p>
-    <img src="./rtic-logo.png" height="20" style="vertical-align: middle;" alt="RTIC" />
+    <img src="./assets/rtic.gif" height="20" style="vertical-align: middle;" alt="RTIC" />
     Member — <strong>HCMUTE Research on Technology and Innovation Club</strong>
   </p>
 
