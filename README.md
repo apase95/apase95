@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**apase95/apase95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Hi, I'm **Ho Dang Thai Duy** — Aspiring AI Engineer.
 
-Here are some ideas to get you started:
+  <br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p>
+    <img src="./aws-logo.png" height="20" style="vertical-align: middle;" alt="AWS Builder" />
+    Challenger — <strong>AWS Student Builder Group</strong>
+  </p>
+
+  <p>
+    <img src="./rtic-logo.png" height="20" style="vertical-align: middle;" alt="RTIC" />
+    Member — <strong>HCMUTE Research on Technology and Innovation Club</strong>
+  </p>
+
+  <br />
+
+  <em>Striving to craft high-value products, empower people, and contribute to the community.</em>
+
+</div>
