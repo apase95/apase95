@@ -2,15 +2,15 @@
 
   Hi, I'm **Ho Dang Thai Duy** — Aspiring AI Engineer.
 
-  <br />
+  <br /><br />
 
   <p>
-    <img src="./assets/AWS-CBs.png" height="20" style="vertical-align: middle;" alt="AWS Builder" />
+    <img src="./assets/AWS-CBs.png" width="200px" height="200px" align="center" alt="AWS Builder" />
     Challenger — <strong>AWS Student Builder Group</strong>
   </p>
 
   <p>
-    <img src="./assets/rtic.gif" height="20" style="vertical-align: middle;" alt="RTIC" />
+    <img src="./assets/rtic.gif" width="200px" height="200px" align="center" alt="RTIC" />
     Member — <strong>HCMUTE Research on Technology and Innovation Club</strong>
   </p>
 
