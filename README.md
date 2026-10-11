@@ -5,7 +5,7 @@
 <img src="./assets/my-logo.png" alt="Avatar" width="60" height="60" />
 </td>
 <td align="left">
-<h4>Hi, I'm Ho Dang Thai Duy — Aspiring AI Engineer</h4>
+<h4>Hi, I'm Ho Dang Thai Duy — AI Engineer</h4>
 </td>
 </tr>
 <tr>
