@@ -2,6 +2,41 @@
 <table>
 
 <tr>
+<td align="center" width="50%">
+<img src="./assets/my-logo.png" alt="Avatar" width="60" height="60" />
+<h4>Hi, I'm Ho Dang Thai Duy — AI Engineer</h4>
+</td>
+<td align="center" width="50%">
+<img src="./assets/aws.jpg" alt="AWS FCAJ" width="64" height="64" />
+<h4>Intern — <b>AWS First Cloud AI Journey</b></h4>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+<img src="./assets/AWS-CBs.png" alt="AWS Builder" width="70" height="70" />
+<h4>Challenger — <b>AWS Student Builder Group HCMUTE</b></h4>
+</td>
+<td align="center" width="50%">
+<img src="./assets/RTIC2.jpeg" alt="RTIC" width="60" height="60" />
+<h4>Member — <b>HCMUTE Research on Technology and Innovation Club</b></h4>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<h4><i>Striving to craft high-value products, empower people, and contribute to the community</i></h4>
+</td>
+</tr>
+</table>
+</div>
+
+
+
+<!-- <div align="center">
+<table>
+
+<tr>
 <td align="center" width="80">
 <img src="./assets/my-logo.png" alt="Avatar" width="60" height="60" />
 </td>
@@ -12,10 +47,10 @@
 
 <tr>
 <td align="center" width="80">
-<img src="./assets/aws.jpg" alt="AWS FCAJ" width="64" height="64" style="border-radius: 8px;" />
+<img src="./assets/aws.jpg" alt="AWS FCAJ" width="64" height="64"" />
 </td>
 <td align="left">
-<h4>Cloud Engineer — <b>AWS First Cloud AI Journey</b></h4>
+<h4>Intern — <b>AWS First Cloud AI Journey</b></h4>
 </td>
 </tr>
 
@@ -30,7 +65,7 @@
 
 <tr>
 <td align="center" width="80">
-<img src="./assets/RTIC2.jpeg" alt="RTIC" width="60" height="60" style="border-radius: 8px;" />
+<img src="./assets/RTIC2.jpeg" alt="RTIC" width="60" height="60"" />
 </td>
 <td align="left">
 <h4>Member — <b>HCMUTE Research on Technology and Innovation Club</b></h4>
@@ -43,4 +78,4 @@
 </td>
 </tr>
 </table>
-</div>
+</div> -->
