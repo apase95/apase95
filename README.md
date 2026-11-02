@@ -3,7 +3,7 @@
 
 <tr>
 <td align="center" width="80">
-<img src="./assets/my-avt.jpeg" alt="Avatar" width="60" height="60" />
+<img src="./assets/my-logo.png" alt="Avatar" width="60" height="60" />
 </td>
 <td align="left">
 <h4>Hi, I'm Ho Dang Thai Duy — AI Engineer</h4>
