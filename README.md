@@ -24,7 +24,7 @@
 <img src="./assets/AWS-CBs.png" alt="AWS Builder" width="70" height="70" />
 </td>
 <td align="left">
-<h4>Challenger — <b>AWS Student Builder Group HCMUTE</b></h4>
+<h4>Core Team — <b>AWS Student Builder Group HCMUTE</b></h4>
 </td>
 </tr>
 
